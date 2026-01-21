@@ -1,2 +1,2 @@
-# landing
+# regcom
 a landing page for regcom
